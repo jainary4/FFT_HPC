@@ -1,0 +1,23 @@
+N (2^k)   Threads   Runtime Output
+-----------------------------------------
+Running for N=2^19 (N=524288) with 1 thread(s)...
+Calculating WN[] of N = 524288 ... 	Run time = 0.354229 
+Finished run for N=2^19 with 1 thread(s).
+-----------------------------------------
+Running for N=2^20 (N=1048576) with 2 thread(s)...
+Calculating WN[] of N = 1048576 ... 	Run time = 1.69135 
+Finished run for N=2^20 with 2 thread(s).
+-----------------------------------------
+Running for N=2^21 (N=2097152) with 4 thread(s)...
+Calculating WN[] of N = 2097152 ... 	Run time = 2.78374 
+Finished run for N=2^21 with 4 thread(s).
+-----------------------------------------
+Running for N=2^22 (N=4194304) with 8 thread(s)...
+Calculating WN[] of N = 4194304 ... 	Run time = 6.39024 
+Finished run for N=2^22 with 8 thread(s).
+-----------------------------------------
+Running for N=2^23 (N=8388608) with 16 thread(s)...
+Calculating WN[] of N = 8388608 ... 	Run time = 11.902 
+Finished run for N=2^23 with 16 thread(s).
+Skipping N=2^24 with 32 threads as it exceeds allocated CPUs (16)
+Gustafson's scaling analysis completed. Results saved to gustafson_scaling_results.txt.

@@ -1,0 +1,21 @@
+Running FFT scaling test for N=33554432 (2^25) mode=3 using mpirun
+Number of OpenMP threads: 2
+-----------------------------------------
+Running with 1 MPI tasks...
+Run time = 23.4983 s
+Finished run with 1 MPI tasks.
+-----------------------------------------
+Running with 2 MPI tasks...
+Run time = 12.8722 s
+Finished run with 2 MPI tasks.
+-----------------------------------------
+Running with 4 MPI tasks...
+Run time = 6.21292 s
+Finished run with 4 MPI tasks.
+-----------------------------------------
+Running with 6 MPI tasks...
+Finished run with 6 MPI tasks.
+-----------------------------------------
+Running with 8 MPI tasks...
+Finished run with 8 MPI tasks.
+All runs completed.

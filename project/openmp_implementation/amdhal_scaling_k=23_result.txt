@@ -1,0 +1,66 @@
+Threads   Code Output
+-----------------------------------------
+Running with 1 thread(s)...
+Calculating WN[] of N = 8388608 ... 	Run time = 10.7145 
+Finished run with 1 thread(s).
+-----------------------------------------
+Running with 2 thread(s)...
+Calculating WN[] of N = 8388608 ... 	Run time = 16.0808 
+Finished run with 2 thread(s).
+-----------------------------------------
+Running with 3 thread(s)...
+Calculating WN[] of N = 8388608 ... 	Run time = 11.6283 
+Finished run with 3 thread(s).
+-----------------------------------------
+Running with 4 thread(s)...
+Calculating WN[] of N = 8388608 ... 	Run time = 11.3807 
+Finished run with 4 thread(s).
+-----------------------------------------
+Running with 5 thread(s)...
+Calculating WN[] of N = 8388608 ... 	Run time = 12.8111 
+Finished run with 5 thread(s).
+-----------------------------------------
+Running with 6 thread(s)...
+Calculating WN[] of N = 8388608 ... 	Run time = 12.9761 
+Finished run with 6 thread(s).
+-----------------------------------------
+Running with 7 thread(s)...
+Calculating WN[] of N = 8388608 ... 	Run time = 13.1536 
+Finished run with 7 thread(s).
+-----------------------------------------
+Running with 8 thread(s)...
+Calculating WN[] of N = 8388608 ... 	Run time = 13.1344 
+Finished run with 8 thread(s).
+-----------------------------------------
+Running with 9 thread(s)...
+Calculating WN[] of N = 8388608 ... 	Run time = 12.6302 
+Finished run with 9 thread(s).
+-----------------------------------------
+Running with 10 thread(s)...
+Calculating WN[] of N = 8388608 ... 	Run time = 12.2852 
+Finished run with 10 thread(s).
+-----------------------------------------
+Running with 11 thread(s)...
+Calculating WN[] of N = 8388608 ... 	Run time = 12.0163 
+Finished run with 11 thread(s).
+-----------------------------------------
+Running with 12 thread(s)...
+Calculating WN[] of N = 8388608 ... 	Run time = 11.728 
+Finished run with 12 thread(s).
+-----------------------------------------
+Running with 13 thread(s)...
+Calculating WN[] of N = 8388608 ... 	Run time = 11.7592 
+Finished run with 13 thread(s).
+-----------------------------------------
+Running with 14 thread(s)...
+Calculating WN[] of N = 8388608 ... 	Run time = 11.6272 
+Finished run with 14 thread(s).
+-----------------------------------------
+Running with 15 thread(s)...
+Calculating WN[] of N = 8388608 ... 	Run time = 11.731 
+Finished run with 15 thread(s).
+-----------------------------------------
+Running with 16 thread(s)...
+Calculating WN[] of N = 8388608 ... 	Run time = 11.7199 
+Finished run with 16 thread(s).
+Scaling analysis completed. Results saved to fft_scaling_results_321184.txt.

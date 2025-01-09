@@ -1,0 +1,22 @@
+Serial Scaling Analysis Results
+k	N	Time (s)
+Calculating WN[] of N = 256 ... 	Run time = 0.000113 
+Calculating WN[] of N = 512 ... 	Run time = 0.000178 
+Calculating WN[] of N = 1024 ... 	Run time = 0.000256 
+Calculating WN[] of N = 2048 ... 	Run time = 0.0005 
+Calculating WN[] of N = 4096 ... 	Run time = 0.00103 
+Calculating WN[] of N = 8192 ... 	Run time = 0.002138 
+Calculating WN[] of N = 16384 ... 	Run time = 0.004361 
+Calculating WN[] of N = 32768 ... 	Run time = 0.009207 
+Calculating WN[] of N = 65536 ... 	Run time = 0.019512 
+Calculating WN[] of N = 131072 ... 	Run time = 0.041601 
+Calculating WN[] of N = 262144 ... 	Run time = 0.084495 
+Calculating WN[] of N = 524288 ... 	Run time = 0.173606 
+Calculating WN[] of N = 1048576 ... 	Run time = 0.489565 
+Calculating WN[] of N = 2097152 ... 	Run time = 1.27226 
+Calculating WN[] of N = 4194304 ... 	Run time = 3.05228 
+Calculating WN[] of N = 8388608 ... 	Run time = 7.49686 
+Calculating WN[] of N = 16777216 ... 	Run time = 15.2669 
+Calculating WN[] of N = 33554432 ... 	Run time = 32.4836 
+Calculating WN[] of N = 67108864 ... 	Run time = 57.0993 
+Calculating WN[] of N = 134217728 ... 	Run time = 102.309 
